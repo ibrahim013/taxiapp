@@ -8,4 +8,48 @@ dependencies: /Users/andeladeveloper/taxiapp/ios/taxiapp/AppDelegate.m \
   /Users/andeladeveloper/taxiapp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
   /Users/andeladeveloper/taxiapp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
   /Users/andeladeveloper/taxiapp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
-  /Users/andeladeveloper/taxiapp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h
+  /Users/andeladeveloper/taxiapp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/andeladeveloper/taxiapp/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Modules/module.modulemap \
+  /Users/andeladeveloper/taxiapp/ios/Pods/GoogleMaps/Base/Frameworks/GoogleMapsBase.framework/Modules/module.modulemap \
+  /Users/andeladeveloper/taxiapp/ios/Pods/GoogleMaps/Base/Frameworks/GoogleMapsBase.framework/Headers/GMSDeprecationMacros.h \
+  /Users/andeladeveloper/taxiapp/ios/Pods/GoogleMaps/Base/Frameworks/GoogleMapsBase.framework/Headers/GMSCoordinateBounds.h \
+  /Users/andeladeveloper/taxiapp/ios/Pods/GoogleMaps/Base/Frameworks/GoogleMapsBase.framework/Headers/GMSCompatabilityMacros.h \
+  /Users/andeladeveloper/taxiapp/ios/Pods/GoogleMaps/Base/Frameworks/GoogleMapsBase.framework/Headers/GoogleMapsBase.h \
+  /Users/andeladeveloper/taxiapp/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaView.h \
+  /Users/andeladeveloper/taxiapp/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaService.h \
+  /Users/andeladeveloper/taxiapp/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaLink.h \
+  /Users/andeladeveloper/taxiapp/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaLayer.h \
+  /Users/andeladeveloper/taxiapp/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaCameraUpdate.h \
+  /Users/andeladeveloper/taxiapp/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaCamera.h \
+  /Users/andeladeveloper/taxiapp/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanorama.h \
+  /Users/andeladeveloper/taxiapp/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSOrientation.h \
+  /Users/andeladeveloper/taxiapp/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSURLTileLayer.h \
+  /Users/andeladeveloper/taxiapp/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSTileLayer.h \
+  /Users/andeladeveloper/taxiapp/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSSyncTileLayer.h \
+  /Users/andeladeveloper/taxiapp/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPolyline.h \
+  /Users/andeladeveloper/taxiapp/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPolygon.h \
+  /Users/andeladeveloper/taxiapp/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMarkerLayer.h \
+  /Users/andeladeveloper/taxiapp/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMarker.h \
+  /Users/andeladeveloper/taxiapp/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSGroundOverlay.h \
+  /Users/andeladeveloper/taxiapp/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSOverlay.h \
+  /Users/andeladeveloper/taxiapp/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSCircle.h \
+  /Users/andeladeveloper/taxiapp/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSServices.h \
+  /Users/andeladeveloper/taxiapp/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMutablePath.h \
+  /Users/andeladeveloper/taxiapp/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSUISettings.h \
+  /Users/andeladeveloper/taxiapp/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMapView.h \
+  /Users/andeladeveloper/taxiapp/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMapView+Animation.h \
+  /Users/andeladeveloper/taxiapp/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMapStyle.h \
+  /Users/andeladeveloper/taxiapp/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMapLayer.h \
+  /Users/andeladeveloper/taxiapp/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSIndoorDisplay.h \
+  /Users/andeladeveloper/taxiapp/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPath.h \
+  /Users/andeladeveloper/taxiapp/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSGeometryUtils.h \
+  /Users/andeladeveloper/taxiapp/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSGeocoder.h \
+  /Users/andeladeveloper/taxiapp/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSProjection.h \
+  /Users/andeladeveloper/taxiapp/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSCoordinateBounds+GoogleMaps.h \
+  /Users/andeladeveloper/taxiapp/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSCameraUpdate.h \
+  /Users/andeladeveloper/taxiapp/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSCameraPosition.h \
+  /Users/andeladeveloper/taxiapp/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSCALayer.h \
+  /Users/andeladeveloper/taxiapp/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSAddress.h \
+  /Users/andeladeveloper/taxiapp/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSIndoorLevel.h \
+  /Users/andeladeveloper/taxiapp/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSIndoorBuilding.h \
+  /Users/andeladeveloper/taxiapp/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GoogleMaps.h
